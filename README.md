@@ -1,2 +1,2 @@
 # Online-Food-Ordering-
-Online Resturant Food Ordering system (FYP)
+Online Restaurant Food Ordering System (FYP)
